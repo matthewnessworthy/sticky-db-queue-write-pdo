@@ -1,0 +1,202 @@
+2021-06-11 13:52:12,544 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 13:52:12,547 INFO supervisord started with pid 76454
+2021-06-11 13:52:13,554 INFO spawned: 'laravel-worker_00' with pid 76455
+2021-06-11 13:52:13,556 INFO spawned: 'laravel-worker_01' with pid 76456
+2021-06-11 13:52:13,559 INFO spawned: 'laravel-worker_02' with pid 76457
+2021-06-11 13:52:13,561 INFO spawned: 'laravel-worker_03' with pid 76458
+2021-06-11 13:52:14,674 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:14,675 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:14,675 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:14,675 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:14,675 INFO exited: laravel-worker_03 (exit status 0; expected)
+2021-06-11 13:52:14,675 INFO exited: laravel-worker_02 (exit status 0; expected)
+2021-06-11 13:52:14,676 INFO exited: laravel-worker_01 (exit status 0; expected)
+2021-06-11 13:52:14,676 INFO exited: laravel-worker_00 (exit status 0; expected)
+2021-06-11 13:52:15,684 INFO spawned: 'laravel-worker_00' with pid 76459
+2021-06-11 13:52:15,686 INFO spawned: 'laravel-worker_01' with pid 76460
+2021-06-11 13:52:15,688 INFO spawned: 'laravel-worker_02' with pid 76461
+2021-06-11 13:52:15,690 INFO spawned: 'laravel-worker_03' with pid 76462
+2021-06-11 13:52:15,740 INFO exited: laravel-worker_00 (exit status 0; not expected)
+2021-06-11 13:52:16,749 INFO spawned: 'laravel-worker_00' with pid 76463
+2021-06-11 13:52:16,749 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:16,749 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:16,749 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:16,749 INFO exited: laravel-worker_03 (exit status 0; expected)
+2021-06-11 13:52:16,749 INFO exited: laravel-worker_02 (exit status 0; expected)
+2021-06-11 13:52:16,749 INFO exited: laravel-worker_01 (exit status 0; expected)
+2021-06-11 13:52:16,807 INFO spawned: 'laravel-worker_01' with pid 76464
+2021-06-11 13:52:16,808 INFO spawned: 'laravel-worker_02' with pid 76465
+2021-06-11 13:52:16,810 INFO spawned: 'laravel-worker_03' with pid 76466
+2021-06-11 13:52:16,811 INFO exited: laravel-worker_00 (exit status 0; not expected)
+2021-06-11 13:52:17,851 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:17,852 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:17,852 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:17,852 INFO exited: laravel-worker_03 (exit status 0; expected)
+2021-06-11 13:52:17,852 INFO exited: laravel-worker_02 (exit status 0; expected)
+2021-06-11 13:52:17,852 INFO exited: laravel-worker_01 (exit status 0; expected)
+2021-06-11 13:52:18,859 INFO spawned: 'laravel-worker_00' with pid 76467
+2021-06-11 13:52:18,862 INFO spawned: 'laravel-worker_01' with pid 76468
+2021-06-11 13:52:18,864 INFO spawned: 'laravel-worker_02' with pid 76469
+2021-06-11 13:52:18,866 INFO spawned: 'laravel-worker_03' with pid 76470
+2021-06-11 13:52:18,866 WARN received SIGINT indicating exit request
+2021-06-11 13:52:18,866 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 13:52:18,867 INFO stopped: laravel-worker_01 (terminated by SIGTERM)
+2021-06-11 13:52:18,867 INFO stopped: laravel-worker_00 (terminated by SIGTERM)
+2021-06-11 13:52:18,867 INFO stopped: laravel-worker_02 (terminated by SIGTERM)
+2021-06-11 13:52:19,916 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 13:52:57,707 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 13:52:57,710 INFO supervisord started with pid 76483
+2021-06-11 13:52:58,716 INFO spawned: 'laravel-worker_00' with pid 76484
+2021-06-11 13:52:58,721 INFO spawned: 'laravel-worker_01' with pid 76485
+2021-06-11 13:52:58,724 INFO spawned: 'laravel-worker_02' with pid 76486
+2021-06-11 13:52:58,727 INFO spawned: 'laravel-worker_03' with pid 76487
+2021-06-11 13:52:59,734 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:59,734 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:59,734 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:52:59,734 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:54:06,986 WARN received SIGINT indicating exit request
+2021-06-11 13:54:06,988 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 13:54:08,004 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 13:54:08,005 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 13:54:08,005 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 13:54:08,005 INFO stopped: laravel-worker_00 (exit status 0)
+2021-06-11 13:54:08,202 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 13:54:08,205 INFO supervisord started with pid 76560
+2021-06-11 13:54:09,210 INFO spawned: 'laravel-worker_00' with pid 76561
+2021-06-11 13:54:09,213 INFO spawned: 'laravel-worker_01' with pid 76562
+2021-06-11 13:54:09,216 INFO spawned: 'laravel-worker_02' with pid 76563
+2021-06-11 13:54:09,218 INFO spawned: 'laravel-worker_03' with pid 76564
+2021-06-11 13:54:10,224 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:54:10,224 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:54:10,224 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:54:10,224 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:57:21,876 WARN received SIGINT indicating exit request
+2021-06-11 13:57:21,877 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 13:57:22,887 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 13:57:22,887 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 13:57:22,888 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 13:57:22,888 INFO stopped: laravel-worker_00 (exit status 0)
+2021-06-11 13:57:23,101 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 13:57:23,103 INFO supervisord started with pid 76673
+2021-06-11 13:57:24,113 INFO spawned: 'laravel-worker_00' with pid 76674
+2021-06-11 13:57:24,115 INFO spawned: 'laravel-worker_01' with pid 76675
+2021-06-11 13:57:24,118 INFO spawned: 'laravel-worker_02' with pid 76676
+2021-06-11 13:57:24,121 INFO spawned: 'laravel-worker_03' with pid 76677
+2021-06-11 13:57:25,128 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:57:25,128 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:57:25,128 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 13:57:25,128 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:06:03,362 WARN received SIGINT indicating exit request
+2021-06-11 14:06:03,364 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 14:06:04,376 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 14:06:04,376 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 14:06:04,377 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 14:06:04,377 INFO stopped: laravel-worker_00 (exit status 0)
+2021-06-11 14:06:13,884 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 14:06:13,887 INFO supervisord started with pid 77249
+2021-06-11 14:06:14,893 INFO spawned: 'laravel-worker_00' with pid 77250
+2021-06-11 14:06:14,897 INFO spawned: 'laravel-worker_01' with pid 77251
+2021-06-11 14:06:14,902 INFO spawned: 'laravel-worker_02' with pid 77252
+2021-06-11 14:06:14,904 INFO spawned: 'laravel-worker_03' with pid 77253
+2021-06-11 14:06:14,908 INFO spawned: 'laravel-worker_04' with pid 77254
+2021-06-11 14:06:14,911 INFO spawned: 'laravel-worker_05' with pid 77255
+2021-06-11 14:06:14,914 INFO spawned: 'laravel-worker_06' with pid 77256
+2021-06-11 14:06:14,920 INFO spawned: 'laravel-worker_07' with pid 77257
+2021-06-11 14:06:15,926 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:06:15,927 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:06:15,927 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:06:15,927 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:06:15,927 INFO success: laravel-worker_04 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:06:15,927 INFO success: laravel-worker_05 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:06:15,927 INFO success: laravel-worker_06 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:06:15,928 INFO success: laravel-worker_07 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:12:04,856 WARN received SIGINT indicating exit request
+2021-06-11 14:12:04,858 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03, laravel-worker_04, laravel-worker_05, laravel-worker_06, laravel-worker_07 to die
+2021-06-11 14:12:05,888 INFO stopped: laravel-worker_07 (exit status 0)
+2021-06-11 14:12:05,888 INFO stopped: laravel-worker_06 (exit status 0)
+2021-06-11 14:12:05,888 INFO stopped: laravel-worker_05 (exit status 0)
+2021-06-11 14:12:05,889 INFO stopped: laravel-worker_04 (exit status 0)
+2021-06-11 14:12:05,889 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 14:12:05,889 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 14:12:05,889 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 14:12:05,890 INFO stopped: laravel-worker_00 (exit status 0)
+2021-06-11 14:12:11,572 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 14:12:11,575 INFO supervisord started with pid 77424
+2021-06-11 14:12:12,585 INFO spawned: 'laravel-worker_00' with pid 77425
+2021-06-11 14:12:12,589 INFO spawned: 'laravel-worker_01' with pid 77426
+2021-06-11 14:12:12,592 INFO spawned: 'laravel-worker_02' with pid 77427
+2021-06-11 14:12:12,595 INFO spawned: 'laravel-worker_03' with pid 77428
+2021-06-11 14:12:13,602 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:12:13,602 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:12:13,602 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:12:13,602 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:15:10,216 WARN received SIGINT indicating exit request
+2021-06-11 14:15:10,218 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 14:15:11,230 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 14:15:11,230 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 14:15:11,230 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 14:15:11,231 INFO stopped: laravel-worker_00 (exit status 0)
+2021-06-11 14:15:20,802 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 14:15:20,806 INFO supervisord started with pid 77526
+2021-06-11 14:15:21,812 INFO spawned: 'laravel-worker_00' with pid 77527
+2021-06-11 14:15:21,814 INFO spawned: 'laravel-worker_01' with pid 77528
+2021-06-11 14:15:21,815 INFO spawned: 'laravel-worker_02' with pid 77529
+2021-06-11 14:15:21,816 INFO spawned: 'laravel-worker_03' with pid 77530
+2021-06-11 14:15:22,822 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:15:22,822 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:15:22,822 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:15:22,822 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:19:02,158 WARN received SIGINT indicating exit request
+2021-06-11 14:19:02,160 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 14:19:03,170 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 14:19:03,170 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 14:19:03,170 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 14:19:03,170 INFO stopped: laravel-worker_00 (exit status 0)
+2021-06-11 14:19:18,308 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 14:19:18,311 INFO supervisord started with pid 77636
+2021-06-11 14:19:19,318 INFO spawned: 'laravel-worker_00' with pid 77638
+2021-06-11 14:19:19,320 INFO spawned: 'laravel-worker_01' with pid 77639
+2021-06-11 14:19:19,323 INFO spawned: 'laravel-worker_02' with pid 77640
+2021-06-11 14:19:19,324 INFO spawned: 'laravel-worker_03' with pid 77641
+2021-06-11 14:19:20,899 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:19:20,901 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:19:20,901 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:19:20,901 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:19:28,941 WARN received SIGINT indicating exit request
+2021-06-11 14:19:28,942 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 14:19:29,951 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 14:19:29,951 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 14:19:29,951 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 14:19:29,951 INFO stopped: laravel-worker_00 (exit status 0)
+2021-06-11 14:19:38,493 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 14:19:38,494 INFO supervisord started with pid 77694
+2021-06-11 14:19:39,503 INFO spawned: 'laravel-worker_00' with pid 77695
+2021-06-11 14:19:39,506 INFO spawned: 'laravel-worker_01' with pid 77696
+2021-06-11 14:19:39,510 INFO spawned: 'laravel-worker_02' with pid 77697
+2021-06-11 14:19:39,513 INFO spawned: 'laravel-worker_03' with pid 77698
+2021-06-11 14:19:40,519 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:19:40,519 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:19:40,519 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:19:40,521 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:20:25,458 WARN received SIGINT indicating exit request
+2021-06-11 14:20:25,458 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 14:20:26,476 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 14:20:26,476 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 14:20:26,476 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 14:20:26,476 INFO stopped: laravel-worker_00 (exit status 0)
+2021-06-11 14:20:27,787 INFO Increased RLIMIT_NOFILE limit to 1024
+2021-06-11 14:20:27,790 INFO supervisord started with pid 77741
+2021-06-11 14:20:28,796 INFO spawned: 'laravel-worker_00' with pid 77742
+2021-06-11 14:20:28,798 INFO spawned: 'laravel-worker_01' with pid 77743
+2021-06-11 14:20:28,799 INFO spawned: 'laravel-worker_02' with pid 77744
+2021-06-11 14:20:28,801 INFO spawned: 'laravel-worker_03' with pid 77745
+2021-06-11 14:20:29,807 INFO success: laravel-worker_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:20:29,808 INFO success: laravel-worker_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:20:29,808 INFO success: laravel-worker_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:20:29,808 INFO success: laravel-worker_03 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-06-11 14:21:48,461 WARN received SIGINT indicating exit request
+2021-06-11 14:21:48,463 INFO waiting for laravel-worker_00, laravel-worker_01, laravel-worker_02, laravel-worker_03 to die
+2021-06-11 14:21:49,474 INFO stopped: laravel-worker_03 (exit status 0)
+2021-06-11 14:21:49,475 INFO stopped: laravel-worker_02 (exit status 0)
+2021-06-11 14:21:49,475 INFO stopped: laravel-worker_01 (exit status 0)
+2021-06-11 14:21:49,475 INFO stopped: laravel-worker_00 (exit status 0)
